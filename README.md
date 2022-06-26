@@ -1,6 +1,7 @@
 <h2 align="center">Hey, I'm Satyam  <img src="https://files.aashutosh.dev/hey.gif" width="32"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamk36&label=Views&color=blue&style=plastic" alt="satyamk36" /> </p>
+<p align="left"> <a href="https://twitter.com/_satyamk36" target="blank"><img src="https://img.shields.io/twitter/follow/_satyamk36?logo=twitter&style=for-the-badge" alt="_satyamk36" /></a> </p>
 
 - 🎓 I’m a final year B.Tech CSE student at Indian Institute of Information Technology Vadodara.
 - 🔭 I’m currently working as Project Trainee intern as Conga(Previously Apttus).
