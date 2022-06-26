@@ -1,4 +1,4 @@
-### Hi there, I am Satyam Kushwaha 👋
+<h2 align="center">Hey, I'm Satyam  <img src="https://files.aashutosh.dev/hey.gif" width="32"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamk36&label=Views&color=blue&style=plastic" alt="satyamk36" /> </p>
 
